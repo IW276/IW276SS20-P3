@@ -21,8 +21,7 @@ Short introduction to project assigment.
 * Python 3.7 (or above)
 * OpenCV 4.0 (or above)
 * Jetson Nano | Jetson TX2
-* Jetpack 4.2
-> [Optional] ...
+* Jetpack 4.3
 
 ## Prerequisites
 1. Install requirements:
