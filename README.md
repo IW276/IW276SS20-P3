@@ -4,7 +4,7 @@ This program takes a camera feed or video/image file as input and tries to detec
 
 ![Screenshot Program](https://github.com/Tummerhore/face-super-resolution/blob/master/readme_images/ScreenshotProgram.png?raw=true)
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/_ikaoWiW6K8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[Demo Video](http://www.youtube.com/watch?v=_ikaoWiW6K8 "")
 
 > This work was done by Lukas Schätzle, Jacqueline Wegert, Benno Latermann during the IW276 Autonome Systeme Labor at the Karlsruhe University of Applied Sciences (Hochschule Karlruhe - Technik und Wirtschaft) in SS 2020. 
 
